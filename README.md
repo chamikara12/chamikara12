@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamikara12&label=Profile%20views&color=0e75b6&style=flat" alt="chamikara12" /> </p>
 
-- 🌱 I’m currently learning **OOP with Java**
-
 - 💬 I'm an Undergraduate at **University of Vavuniya**
 
 - 📫 How to reach me **chamikaramadushanka55@gmail.com**
